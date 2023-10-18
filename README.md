@@ -1,2 +1,4 @@
-# hello-world
- a place where you store ideas, resources, or even share and discuss things with others.
+# Hello World
+## My name is R. I was nervous to learn programming. Maybe because I was afraid I would be bad at it; there may be other reasons that are not clear to me yet. 
+
+> Well, here I am.
